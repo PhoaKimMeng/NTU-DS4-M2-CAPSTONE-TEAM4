@@ -4,3 +4,6 @@ scikit-learn
 kagglehub
 matplotlib
 seaborn
+google-cloud-bigquery
+pandas-gbq
+great-expectations<1.0
